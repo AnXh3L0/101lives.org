@@ -12,7 +12,9 @@ export function Introduction() {
     >
       <Container className="text-lg tracking-tight text-slate-700">
         <p className="font-display text-4xl font-bold tracking-tight text-slate-900">
-        Our mission is to enable, support, and empower animal welfare across Spain through innovative digital solutions, collaboration, and community engagement. Our vision is to create harmonious coexistence between communities and animals throughout Spain, focusing on cat welfare, with education, technology, and scalable solutions bridging gaps in animal welfare needs and solutions.
+        Our mission is to enable, support, and empower animal welfare across Spain through innovative digital solutions, collaboration, and community engagement.
+          <br>
+        Our vision is to create harmonious coexistence between communities and animals throughout Spain, focusing on cat welfare, with education, technology, and scalable solutions bridging gaps in animal welfare needs and solutions.
         </p>
         <p className="mt-10">
           <Link
