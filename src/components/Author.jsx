@@ -38,7 +38,7 @@ export function Author() {
               Contact us
             </SectionHeading>
             <p className="mt-8 font-display text-5xl font-extrabold tracking-tight text-slate-900 sm:text-6xl">
-              Have questions or want to report a street cat colony in Spain? Get in touch!
+              Have questions, suggestions or just want to know more? Get in touch!
             </p>
             {/* <p className="mt-4 text-lg tracking-tight text-slate-700">
               I’ve been designing icons professionally for over a decade and
