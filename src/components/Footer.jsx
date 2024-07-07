@@ -9,7 +9,6 @@ export function Footer() {
       <div className="relative text-center text-sm text-slate-600">
         <p>Copyright &copy; {new Date().getFullYear()} - 101 Lives Association</p>
         <p>Contact: <a class="underline" href="mailto:info@101lives.org">info@101lives.org</a></p>
-        <p>Ebooks: <a class="underline" href="mailto:ebooks@101lives.org">ebooks@101lives.org</a></p>
         <p>All rights reserved.</p>
       </div>
     </footer>
