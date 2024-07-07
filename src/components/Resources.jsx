@@ -72,7 +72,7 @@ export function Resources() {
         Explore our resources designed to support street cat associations across Spain. Download marketing templates, project materials, and more.
         </p>
         <p className="mt-4 text-lg tracking-tight text-slate-700">
-          We&apos;re working on bringing you valuable resources, local contacts, and useful apps for non-profits. Stay tuned for updates!
+          We're working on bringing you valuable resources local contacts and useful apps for non-profits. Stay tuned for updates by subscribing to the newsletter by downloading the ebook!
         </p>
       </Container>
       {/* <Container size="lg" className="mt-16">
