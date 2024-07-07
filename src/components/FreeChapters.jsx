@@ -20,8 +20,7 @@ export function FreeChapters() {
               Get the free e-book
             </h2>
             <p className="mt-4 mb-8 text-lg tracking-tight text-blue-200">
-              Enter your email address and we will send you a free copy of the e-book
-              containing two of my favorite chapters.
+              Our free eBook 'Digital Essentials for Animal Welfare Organizations in Spain' offers practical guidance to streamline your operations and build trust with supporters. It's the first eBook in a series. Click the link below to download and get started.
             </p>
             <Button href="https://6ab9af95.sibforms.com/serve/MUIFAIlP1kvus7r1I8mjPo7YLOgYDVH-yRvcze8yGeiAwM27xWbIEP6teg0xwS9hqgFrepBLWamzZCw9jaJP9adx_G3IUmfi8OXIAI2IzYbXfMRFks6fqr3CuyN4NhgNZwRnfpx86AH0huA6N9MOIRjIK9tMFkS3TEUNkyHL3cU_X-Lrb9fS3brTioAkZRW3E5mvGHOmVMmubIGO" target='_blank' rel="noopener noreferrer" color="white">
               Download e-book
