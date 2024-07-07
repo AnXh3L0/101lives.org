@@ -74,6 +74,15 @@ export function Resources() {
         <p className="mt-4 text-lg tracking-tight text-slate-700">
           We're working on bringing you valuable resources local contacts and useful apps for non-profits. Stay tuned for updates by subscribing to the newsletter by downloading the ebook!
         </p>
+        <p className="mt-10">
+          <Link
+            href="#free-ebook"
+            className="text-base font-medium text-blue-600 hover:text-blue-800"
+          >
+            Get the free e-book straight to your inbox{' '}
+            <span aria-hidden="true">&rarr;</span>
+          </Link>
+        </p>
       </Container>
       {/* <Container size="lg" className="mt-16">
         <ol
