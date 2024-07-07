@@ -59,7 +59,7 @@ export function Hero() {
               <Button href="#free-ebook" color="blue">
               Download e-book
               </Button>
-              <Button href="#get-involved" variant="outline" color="blue">
+              <Button href="#contact" variant="outline" color="blue">
                 Get in touch
               </Button>
             </div>
